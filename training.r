@@ -1,0 +1,2 @@
+print ("Archivo training")
+print ("")
