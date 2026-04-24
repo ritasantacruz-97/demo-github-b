@@ -1,2 +1,1 @@
 print ("Archivo training")
-print ("")
